@@ -1,5 +1,56 @@
 # sk-showcase
-## Tx-App
+## Tx-Shop
+# 📱 Employee Management App  
+
+An Android application for managing employees' daily activities, including attendance, logs, receipts, leave management, expired items, and reporting.  
+
+---
+
+## 🚀 Features  
+
+- **🔐 Authentication**  
+  - Employee sign-in and secure login system  
+
+- **🕒 Attendance Management**  
+  - Mark daily attendance  
+  - Generate detailed attendance reports  
+
+- **📝 Employee Logs**  
+  - Track task start and end times  
+  - View and export employee activity logs  
+
+- **📷 Receipt & Bill Scanner**  
+  - Upload and scan receipt images  
+  - Extract text automatically using OCR  
+
+- **📅 Leave Management**  
+  - Employees can apply for leave  
+  - Leave request tracking and history  
+
+- **📦 Expired Item Entry**  
+  - Barcode scanning for expired items  
+  - Maintain expired item records  
+
+- **🧾 Purchase Memo**  
+  - Upload and manage purchase memo files  
+
+- **📊 Reports**  
+  - Attendance report generation  
+  - Employee log report generation  
+  - Export reports for business insights  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Language:** Java , Kotlin  
+- **Framework:** Android SDK  
+- **Database:**  Room , Firebase   
+- **OCR:** Google ML Kit   
+- **Barcode Scanner:** ZXing / ML Kit  
+
+---
+  
 ## Screenshots    
  <p align="center">          
  <img src="https://github.com/sknathbd/sk-showcase/blob/master/Screenshot_login.png?raw=true" width="200" />          
